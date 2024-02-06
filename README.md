@@ -2,7 +2,8 @@
 🙋‍♂️I am a Full Stack developer, specialized in Front-End, with experience in React, Redux, Node.js, Express, able to of <br>creating creative and complete web pages.<br>Quick learner and fluent in English communication. I find fast and efficient solutions, with the ability to easily adapt to new environments and challenges.<br><br>
 
 
-## 🌐 Socials:
+## 🌐 Contact me:
+Email:(ferbalbu03@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-nicol%C3%A1s-balbuena-562748218/) 
 
 # 💻 Tech Stack:
